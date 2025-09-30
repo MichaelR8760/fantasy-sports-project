@@ -2,6 +2,8 @@
 
 A data collection and storage system for daily fantasy sports (DFS) research that aggregates player projections, salaries, and ownership data into a normalized database.
 
+![Fantasy Data](screenshots/fantasydatapic.png)
+
 ## Features
 
 - **Automated Player Database**: Scrapes complete NFL roster data from ESPN's API
@@ -58,4 +60,5 @@ Reserved for actual performance data (planned feature)
     Actual performance stats integration
     More data resources
     Line comparison across sports books for value
+
 
