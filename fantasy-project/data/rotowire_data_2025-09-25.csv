@@ -1,0 +1,25 @@
+Player,Injury_Status,Position,Team,Opponent,Salary,FPTS,Value,Roster_Percent
+Jaxon Smith-Njigba,,WR,SEA,@ARI,$11000,17.99,1.64,47
+Kyler Murray,,QB,ARI,SEA,$10800,17.11,1.58,62
+Sam Darnold,,QB,SEA,@ARI,$10000,16.42,1.64,58
+Trey McBride,,TE,ARI,SEA,$9800,14.92,1.52,32
+Trey Benson,,RB,ARI,SEA,$8800,14.17,1.61,26
+Kenneth Walker,,RB,SEA,@ARI,$10400,13.09,1.26,23
+Marvin Harrison,,WR,ARI,SEA,$7800,11.19,1.43,27
+Cooper Kupp,,WR,SEA,@ARI,$7000,10.79,1.54,21
+Zach Charbonnet,QUE,RB,SEA,@ARI,$5400,10.71,1.98,23
+Jason Myers,,K,SEA,@ARI,$5000,8.09,1.62,25
+Chad Ryland,,K,ARI,SEA,$4800,8.06,1.68,20
+Tory Horton,,WR,SEA,@ARI,$5800,7.34,1.27,13
+Seattle Seahawks,,DST,SEA,@ARI,$4000,5.92,1.48,20
+Arizona Cardinals,,DST,ARI,SEA,$4400,5.79,1.32,20
+Michael Wilson,,WR,ARI,SEA,$3400,5.66,1.66,18
+Greg Dortch,,WR,ARI,SEA,$3200,5.63,1.76,11
+Emari Demercado,,RB,ARI,SEA,$3800,5.53,1.46,8
+AJ Barner,,TE,SEA,@ARI,$2800,4.9,1.75,12
+Elijah Arroyo,,TE,SEA,@ARI,$800,3.43,4.29,14
+Elijah Higgins,,TE,ARI,SEA,$1600,1.83,1.14,2
+Tip Reiman,,TE,ARI,SEA,$2000,1.6,0.80,2
+Eric Saubert,,TE,SEA,@ARI,$600,1.04,1.73,6
+Jake Bobo,,WR,SEA,@ARI,$1000,0.61,0.61,3
+George Holani,,RB,SEA,@ARI,$2400,0.6,0.25,1
